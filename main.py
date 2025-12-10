@@ -11,12 +11,20 @@ if __name__ == "__main__":
 
     # Download and process datasets
 
-    
+
     if os.path.exists("data") == False:
         init_datasets()
 
     Path("outputs/csv").mkdir(parents=True, exist_ok=True)
+
+
+    
+    
+    
     Path("outputs/png").mkdir(parents=True, exist_ok=True)
+
+
+    
     Path("outputs/csv").mkdir(parents=True, exist_ok=True)
 
     # Train baseline models
