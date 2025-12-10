@@ -4,7 +4,7 @@
 
 This paper has been submitted for publication in [ECML PKDD 2023](https://2023.ecmlpkdd.org/) and is available on [arXiv](https://arxiv.org/pdf/2304.01238.pdf).
 
-It evaluates different baseline techniques and large language models for email spam detection. It also introduces **Spam-T5**, a modified [Flan-T5](https://huggingface.co/google/flan-t5-base) model which significantly outperforms other models.
+It evaluates different baseline techniques and large language models for email spam detection. 
 
 ![Results](results.png)
 
