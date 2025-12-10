@@ -1,0 +1,15 @@
+torch
+ipykernel
+matplotlib
+matplotlib-inline
+SciencePlots
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+nltk
+transformers
+datasets
+evaluate
+setfit
